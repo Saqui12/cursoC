@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discos", "discos\discos.csproj", "{72725F92-4B7E-4336-A739-0048299A1E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{E2828B8C-F023-4E16-A44D-E704450A3A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "datos\datos.csproj", "{1BCC7306-17AD-4220-8362-C7F453EE1D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72725F92-4B7E-4336-A739-0048299A1E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72725F92-4B7E-4336-A739-0048299A1E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72725F92-4B7E-4336-A739-0048299A1E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72725F92-4B7E-4336-A739-0048299A1E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2828B8C-F023-4E16-A44D-E704450A3A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2828B8C-F023-4E16-A44D-E704450A3A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2828B8C-F023-4E16-A44D-E704450A3A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2828B8C-F023-4E16-A44D-E704450A3A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCC7306-17AD-4220-8362-C7F453EE1D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCC7306-17AD-4220-8362-C7F453EE1D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCC7306-17AD-4220-8362-C7F453EE1D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCC7306-17AD-4220-8362-C7F453EE1D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD46B3A4-18A9-4E61-93BD-D89012710752}
+	EndGlobalSection
+EndGlobal
